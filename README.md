@@ -1,5 +1,14 @@
 # AMD BC-250 UEFI
 
+## Known versions
+
+| Version | Date       | Comments |
+|---------|------------|----------|
+| 4.00G   | 2022.04.08 |          |
+| 5.00    | 2022.05.03 |          |
+|         |            |          |
+
+
 ## How to flash
 
 ### 1. Install kernel souces
